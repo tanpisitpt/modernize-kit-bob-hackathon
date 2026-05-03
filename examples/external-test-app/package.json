@@ -1,0 +1,9 @@
+{
+  "name": "external-test-app",
+  "version": "1.0.0",
+  "description": "Test app to simulate external source",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
